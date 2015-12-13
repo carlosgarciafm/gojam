@@ -1,0 +1,6 @@
+# Input files
+*.in
+
+# Any object or executable
+*.out
+*.o
