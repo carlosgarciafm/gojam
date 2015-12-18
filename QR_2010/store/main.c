@@ -3,8 +3,8 @@
 
 int main() {
 	FILE *ifile, *ofile;
-	char *iroute = "A-small-practice.in";
-	char *oroute = "output.out";
+	char *iroute = "A-large-practice.in";
+	char *oroute = "large-output.out";
 	ifile = fopen(iroute,"r");
 	ofile = fopen(oroute,"w");
 
